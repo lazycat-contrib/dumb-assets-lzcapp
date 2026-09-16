@@ -1,0 +1,14 @@
+package: cloud.lazycat.app.dumb-assets
+version: 1.0.0
+name: DumbAssets
+description: "A Stupid Simple Asset Tracker"
+min_os_version: "1.5.0"
+homepage: https://github.com/DumbWareio/DumbAssets
+author: DumbWareio
+locales:
+  zh:
+    description: "一个极简的资产追踪应用"
+    name: DumbAssets
+  en:
+    description: "A Stupid Simple Asset Tracker"
+    name: DumbAssets
