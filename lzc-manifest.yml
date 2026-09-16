@@ -9,7 +9,7 @@ application:
 services:
   dumb-assets:
     # upstream: dumbwareio/dumbassets:1.0.11
-    image: dumbwareio/dumbassets:1.0.11
+    image: registry.lazycat.cloud/czyt/dumbwareio/dumbassets:7dbd47c2112b1a01
     environment:
       - NODE_ENV=production
       - DEBUG=true

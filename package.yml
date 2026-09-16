@@ -1,5 +1,5 @@
 package: cloud.lazycat.app.dumb-assets
-version: 1.0.0
+version: 1.0.11
 name: DumbAssets
 description: "A Stupid Simple Asset Tracker"
 min_os_version: "1.5.0"
