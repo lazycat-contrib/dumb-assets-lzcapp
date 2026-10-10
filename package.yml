@@ -1,4 +1,5 @@
 package: cloud.lazycat.app.dumb-assets
+license: GPL-3.0
 version: 1.0.11
 name: DumbAssets
 description: "A Stupid Simple Asset Tracker"
